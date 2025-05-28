@@ -3,14 +3,10 @@
 This repo contains the projects that are ongoing and are completed.
 
 
+## Fin Eng
 
-### File tree
+### To-Do
+- [ ] Netflix (Random Walk Model)
 
-.
-├── Finance Eng
-│   ├── Netflix (Random Walk Model) [To-Do]
-│   │   └── main.ipynb
-│   └── USD-INR (Normality and empirial distribution) [To-Do]
-├── LICENSE
-└── README.md
-
+### Done
+- [x] USD-INR (Normality and empirical distribution)

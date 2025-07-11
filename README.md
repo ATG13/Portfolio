@@ -10,3 +10,4 @@ This repo contains the projects that are ongoing and are completed.
 
 ### Done
 - [x] USD-INR (Normality and empirical distribution)
+- [x] VECM model (AEM and Gold ETF)
